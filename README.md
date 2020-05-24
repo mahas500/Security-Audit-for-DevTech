@@ -1,4 +1,4 @@
-* Scenario of a fictitious company DevTech *
+*Scenario of a fictitious company DevTech*
 
 DevTech is a successful start-up company that was founded by four collage friends that has grown
 from 4 employees to 38 employees. It is expected that DevTech will continue to grow and the founders

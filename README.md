@@ -12,9 +12,9 @@ staff. During this time, you have discussed, observed and noted the following:
 space is alarmed, locked by key and has no other form of security.
 
 2. Their computer hardware consists of:
-a. Mainly laptops
-b. Some desktops
-c. Several servers
+a. Mainly laptops <br />
+b. Some desktops <br />
+c. Several servers <br />
 d. Printers
 
 3. Each user manages their own Computer. As a result,
@@ -30,8 +30,8 @@ i. The Operating System of choice is MS Windows 10. These are connected using fo
 MS Workgroups.
 
 4. There is a general absence of official IT documentation, this includes:
-a. Operational Guides,
-b. Company IT Policies,
+a. Operational Guides, <br />
+b. Company IT Policies, <br />
 c. Company IT Processes
 d. Other General IT Documentation
 

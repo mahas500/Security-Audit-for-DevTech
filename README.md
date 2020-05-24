@@ -1,4 +1,4 @@
-* Scenario of a fictitious company DevTech*
+* Scenario of a fictitious company DevTech *
 
 DevTech is a successful start-up company that was founded by four collage friends that has grown
 from 4 employees to 38 employees. It is expected that DevTech will continue to grow and the founders
@@ -53,3 +53,4 @@ a. Being hit badly by Malware <br />
 b. Data lose <br />
 c. A concern that IT security will interfere with productivity and/or system usability <br />
 
+* Solution for this is covered in the report *10518579-MANIK-CSS**
